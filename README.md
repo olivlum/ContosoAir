@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/roquette-test/Labs-ContosoAir/_apis/build/status/olivlum.ContosoAir?branchName=master)](https://dev.azure.com/roquette-test/Labs-ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
